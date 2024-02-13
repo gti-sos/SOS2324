@@ -28,6 +28,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - Team:
   - [Daniel Taillefer Nieto](https://github.com/dantainie)
   - [Juan Ros Raposo](https://github.com/juarosrap)
+  - [Rubén González Amador](https://github.com/rubgonama) 
 
 - Project description: Analysing the most famous people in the world
 and the richest companies.
