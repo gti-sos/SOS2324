@@ -9,6 +9,14 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2023/2024):
 --
+## SOS2324-11
+
+- **Team**
+  - [Sharay Portillo Jurado](https://github.com/Sharay07)
+  - [Isabel María Trapero Romero](https://github.com/isabeltrapero)
+  - [Álvaro Marcos Delgado](https://github.com/markete03)
+- **Project description**: Our information sources are aimed at analyzing the relationships that exist between annual EU payments from 2014 to the present, together with details on payments to structural and investment programs. In addition, unconventional data collected from news and social networks is integrated to analyze socioeconomic trends.
+- **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-11)
 
 ## SOS2324-20
 
