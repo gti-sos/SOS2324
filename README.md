@@ -73,6 +73,8 @@ and the richest companies.
 
 - **Team**
   - [Raul Sequera Gomez](https://github.com/raulsequera)
+  - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
   
 - **Project description**: 
+
 - **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
