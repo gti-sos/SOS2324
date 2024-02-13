@@ -56,3 +56,13 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
+
+## SOS2324-10
+
+- **Team**
+  - [Álvaro Suárez Carbonell](https://github.com/suarovski)
+
+
+- **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
+
+- **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
