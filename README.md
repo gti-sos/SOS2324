@@ -23,3 +23,18 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
+## SOS2324-22
+
+- Team:
+  - [Daniel Taillefer Nieto](https://github.com/dantainie)
+  - [Juan Ros Raposo](https://github.com/juarosrap)
+
+- Project description: Analysing the most famous people in the world
+and the richest companies.
+
+- Repository: https://github.com/gti-sos/SOS2324-22
+-  URL: TBD
+-  APIs:
+    - TBD
+    - TBD
+    - TBD
