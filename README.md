@@ -34,8 +34,3 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
--  URL: TBD
--  APIs:
-    - TBD
-    - TBD
-    - TBD
