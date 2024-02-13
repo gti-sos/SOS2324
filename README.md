@@ -66,3 +66,13 @@ and the richest companies.
 - **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
 
 - **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
+
+
+
+## SOS2324-19
+
+- **Team**
+  - [Raul Sequera Gomez](https://github.com/raulsequera)
+  
+- **Project description**: 
+- **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
