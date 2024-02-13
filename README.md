@@ -74,6 +74,7 @@ and the richest companies.
 - **Team**
   - [Raul Sequera Gomez](https://github.com/raulsequera)
   - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
+  - [Alberto Fraile Infantes](https://github.com/Albertof03)
   - [Jose Manuel Peña Ramírez](https://github.com/jpenrrami)
 
 - **Project description**: Our project is based on analizing the relationship between EU Payments and development
