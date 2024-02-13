@@ -74,7 +74,8 @@ and the richest companies.
 - **Team**
   - [Raul Sequera Gomez](https://github.com/raulsequera)
   - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
-  
-- **Project description**: 
+  - [Jose Manuel Peña Ramírez](https://github.com/jpenrrami)
+
+- **Project description**: Our project is based on analizing the relationship between EU Payments and development
 
 - **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
