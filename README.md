@@ -9,6 +9,18 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2023/2024):
 --
+
+## SOS2324-10
+
+- **Team**
+  - [Álvaro Suárez Carbonell](https://github.com/suarovski)
+  - [Antonio Suero Baeza](https://github.com/antsuebae)
+  - [Miguel Robledo Fernández](https://github.com/g3nesis333)
+
+- **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
+
+- **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
+
 ## SOS2324-11
 
 - **Team**
@@ -71,16 +83,6 @@ and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
 
-## SOS2324-10
-
-- **Team**
-  - [Álvaro Suárez Carbonell](https://github.com/suarovski)
-  - [Antonio Suero Baeza](https://github.com/antsuebae)
-  - [Miguel Robledo Fernández](https://github.com/g3nesis333)
-
-- **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
-
-- **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
 
 
 
