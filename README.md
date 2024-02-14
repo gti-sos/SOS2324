@@ -30,6 +30,19 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our information sources are aimed at analyzing the relationships that exist between annual EU payments from 2014 to the present, together with details on payments to structural and investment programs. In addition, unconventional data collected from news and social networks is integrated to analyze socioeconomic trends.
 - **Repository**: [gti-sos/SOS2324-11](https://github.com/gti-sos/SOS2324-11)
 
+## SOS2324-12
+- **Team**
+  - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
+  - 
+  - 
+- **Project description**: 
+- **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-12)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-13
 
 - **Team**
