@@ -62,6 +62,7 @@ and the richest companies.
 - **Team**
   - [Álvaro Suárez Carbonell](https://github.com/suarovski)
   - [Antonio Suero Baeza](https://github.com/antsuebae)
+  - [Miguel Robledo Fernández](https://github.com/g3nesis333)
 
 - **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
 
