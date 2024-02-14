@@ -17,7 +17,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Antonio Suero Baeza](https://github.com/antsuebae)
   - [Miguel Robledo Fernández](https://github.com/g3nesis333)
 
-- **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
+- **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe.
 
 - **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
 
