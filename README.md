@@ -21,6 +21,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 
 - **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
 
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+    
 ## SOS2324-11
 
 - **Team**
