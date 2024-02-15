@@ -30,13 +30,26 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our information sources are aimed at analyzing the relationships that exist between annual EU payments from 2014 to the present, together with details on payments to structural and investment programs. In addition, unconventional data collected from news and social networks is integrated to analyze socioeconomic trends.
 - **Repository**: [gti-sos/SOS2324-11](https://github.com/gti-sos/SOS2324-11)
 
+## SOS2324-12
+- **Team**
+  - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
+  - 
+  - 
+- **Project description**: Our information sources are aimed towards the analysis of necessity areas such as the food and the water through all the world, such as the consumption of drinkable water and the usage of food.
+- **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-13
 
 - **Team**
   - [Aaron López Leal](https://github.com/aaronlopezleal)
   - [Rubén Romero Guisado](https://github.com/rubromgui)
   - [Antonio López Barrios](https://github.com/antlopbar)
-- **Project description**: 
+- **Project description**: Our information sources are aimed at analyzing if there is a relationship between the risk of natural disasters by country, salaries and the most common mental problems.
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: TBD
 -  **APIs**:
@@ -58,13 +71,33 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+
+
+## SOS2324-18
+
+- **Team**
+   - [Carlos Beato Rioja](https://github.com/carbeario)
+   - []()
+   - []()
+- **Project description**: Our sources of information are aimed at analyzing the statistics of regional politicies acceptance,european solidarity funds and foods prices inflation
+- **Repository**: [gti-sos/SOS2324-18](https://github.com/gti-sos/SOS2324-18)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
+
+
+
+
 ## SOS2324-20
 
 - **Team**
   - [Alejandro Fernández Orozco](https://github.com/Alexfer02)
   - [Francisco Sáez Pérez](https://github.com/C1sko)
   - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
-- **Project description**: Nuestro trabajo consiste en estudiar como influye la producción de comida y el uso de fármacos en la esperanza de vida de la población en los diferentes paises del mundo
+- **Project description**: Our work consists of studying how food production and the use of drugs influence the life expectancy of the population in different countries of the world.
 - **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-20)
 - **URL**: TBD
 -  **APIs**:
