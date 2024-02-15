@@ -16,6 +16,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Álvaro Suárez Carbonell](https://github.com/suarovski)
   - [Antonio Suero Baeza](https://github.com/antsuebae)
   - [Miguel Robledo Fernández](https://github.com/g3nesis333)
+  - [Tomás Lozano Romero](https://github.com/TmsLzn)
 
 - **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe.
 
