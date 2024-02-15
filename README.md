@@ -64,6 +64,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+## SOS2324-14
+
+- **Team**
+  - []()
+  - []()
+  - [Nicolás Redondo Moreno](https://github.com/NicoRedondoo)
+- **Project description**: Our information sources are aimed at analyzing the reach of different ways of entertainment in the world.
+- **Repository**: [gti-sos/SOS2324-14](https://github.com/gti-sos/SOS2324-14)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-16
 
 - **Team**
