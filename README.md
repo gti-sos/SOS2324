@@ -67,7 +67,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 ## SOS2324-14
 
 - **Team**
-  - []()
+  - [Víctor Escalera García](https://github.com/victorsclr)
   - [Enrique García Olivares](https://github.com/enrgaroli)
   - [Nicolás Redondo Moreno](https://github.com/NicoRedondoo)
 - **Project description**: Our information sources are aimed at analyzing the reach of different ways of entertainment in the world.
