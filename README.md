@@ -78,6 +78,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+## SOS2324-15
+
+- **Team**
+  - [Marta Fernández Carmona](https://github.com/martaafdez07)
+  - []()
+  - []()
+- **Project description**: Our sources of information are oriented towards analyzing performance at an educational level, considering the behavior of students, academic history, and sleep health.
+- **Repository**: [gti-sos/SOS2324-15](https://github.com/gti-sos/SOS2324-15)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-16
 
 - **Team**
