@@ -68,7 +68,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 
 - **Team**
   - []()
-  - []()
+  - [Enrique García Olivares](https://github.com/enrgaroli)
   - [Nicolás Redondo Moreno](https://github.com/NicoRedondoo)
 - **Project description**: Our information sources are aimed at analyzing the reach of different ways of entertainment in the world.
 - **Repository**: [gti-sos/SOS2324-14](https://github.com/gti-sos/SOS2324-14)
