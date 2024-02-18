@@ -41,8 +41,8 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)
-  - 
-- **Project description**: Our information sources are aimed towards the analysis of necessity areas such as the food and the water through all the world, such as the consumption of drinkable water and the usage of food.
+  - [José Martínez Suárez](https://github.com/josmarsua)
+- **Project description**: Our information sources are aimed towards the analysis of necessity areas such as the food and the water through all the world, such as the consumption of drinkable water and the usage of food and about the variation in prices and different characteristics of rentals managed by Airbnb in different cities.
 - **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
 - **URL**: TBD
 -  **APIs**:
