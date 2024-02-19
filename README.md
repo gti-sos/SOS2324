@@ -10,6 +10,23 @@ Lecturers:
 List of projects registered in the course of **Service Oriented Systems** (2023/2024):
 --
 
+## SOS2324-17
+
+- **Team**
+  - [Ahmed Amine Fraj](https://github.com/ahmfra)
+  - [Adrian Leon Arjona](https://github.com/adrile15)
+  - [Antonio Rumi Moreno](https://github.com/antrummor)
+
+
+- **Project description**: Our work consists on comparing the GDB (Gross Domestic Product) of each country with the economical freedom of its citizens.
+
+- **Repository**: [gti-sos/SOS2324-17](https://github.com/gti-sos/SOS2324-17)
+- **URL**: TBD
+- **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-10
 
 - **Team**
