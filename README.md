@@ -148,7 +148,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Team**
   - [Alejandro Fernández Orozco](https://github.com/Alexfer02)
   - [Francisco Sáez Pérez](https://github.com/C1sko)
-  - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
+  - [Rufino Moreno Pachecho](https://github.com/rufmorpac)
 - **Project description**: Our work consists of studying how food production and the use of drugs influence the life expectancy of the population in different countries of the world.
 - **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-20)
 - **URL**: TBD
