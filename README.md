@@ -178,7 +178,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Juan Ros Raposo](https://github.com/juarosrap)
   - [Rubén González Amador](https://github.com/rubgonama) 
 
-- Project description: Analysing the most famous people in the world
+- Project description: Analyzing the most famous people in the world
 and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
