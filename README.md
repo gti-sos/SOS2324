@@ -21,7 +21,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our work consists on comparing the GDB (Gross Domestic Product) of each country with the economical freedom of its citizens.
 
 - **Repository**: [gti-sos/SOS2324-17](https://github.com/gti-sos/SOS2324-17)
-- **URL**: TBD
+- **URL**: [sos2324-17.appspot.com](https://sos2324-XX.appspot.com)
 - **APIs**:
     - TBD
     - TBD
