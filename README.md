@@ -75,11 +75,11 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Antonio López Barrios](https://github.com/antlopbar)
 - **Project description**: Our information sources are aimed at analyzing if there is a relationship between the risk of natural disasters by country, salaries and the most common mental problems.
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
-- **URL**: TBD
+- **URL**: [sos2324-13.appspot.com](https://sos2324-13.appspot.com)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - RRG: [https://sos2324-13.ew.r.appspot.com/samples/RRG](https://sos2324-13.ew.r.appspot.com/samples/RRG)
+    - ALB: [https://sos2324-13.ew.r.appspot.com/samples/ALB](https://sos2324-13.ew.r.appspot.com/samples/ALB)
+    - ALL: 
 
 ## SOS2324-14
 
