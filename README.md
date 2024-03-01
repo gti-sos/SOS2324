@@ -10,23 +10,6 @@ Lecturers:
 List of projects registered in the course of **Service Oriented Systems** (2023/2024):
 --
 
-## SOS2324-17
-
-- **Team**
-  - [Ahmed Amine Fraj](https://github.com/ahmfra)
-  - [Adrian Leon Arjona](https://github.com/adrile15)
-  - [Antonio Rumi Moreno](https://github.com/antrummor)
-
-
-- **Project description**: Our work consists on comparing the GDB (Gross Domestic Product) of each country with the economical freedom of its citizens.
-
-- **Repository**: [gti-sos/SOS2324-17](https://github.com/gti-sos/SOS2324-17)
-- **URL**: [sos2324-17.appspot.com](https://sos2324-XX.appspot.com)
-- **APIs**:
-    - TBD
-    - TBD
-    - TBD
-
 ## SOS2324-10
 
 - **Team**
@@ -123,7 +106,22 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+## SOS2324-17
 
+- **Team**
+  - [Ahmed Amine Fraj](https://github.com/ahmfra)
+  - [Adrian Leon Arjona](https://github.com/adrile15)
+  - [Antonio Rumi Moreno](https://github.com/antrummor)
+
+
+- **Project description**: Our work consists on comparing the GDB (Gross Domestic Product) of each country with the economical freedom of its citizens.
+
+- **Repository**: [gti-sos/SOS2324-17](https://github.com/gti-sos/SOS2324-17)
+- **URL**: [sos2324-17.appspot.com](https://sos2324-XX.appspot.com)
+- **APIs**:
+    - TBD
+    - TBD
+    - TBD
 
 ## SOS2324-18
 
@@ -139,8 +137,17 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+## SOS2324-19
 
+- **Team**
+  - [Raul Sequera Gomez](https://github.com/raulsequera)
+  - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
+  - [Alberto Fraile Infantes](https://github.com/Albertof03)
+  - [Jose Manuel Peña Ramírez](https://github.com/jpenrrami)
 
+- **Project description**: Our project is based on analizing the relationship between EU Payments and development
+
+- **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
 
 
 ## SOS2324-20
@@ -187,14 +194,3 @@ and the richest companies.
 
 
 
-## SOS2324-19
-
-- **Team**
-  - [Raul Sequera Gomez](https://github.com/raulsequera)
-  - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
-  - [Alberto Fraile Infantes](https://github.com/Albertof03)
-  - [Jose Manuel Peña Ramírez](https://github.com/jpenrrami)
-
-- **Project description**: Our project is based on analizing the relationship between EU Payments and development
-
-- **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
