@@ -50,9 +50,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
 - **URL**: [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings)
+    - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices)
+    - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data)
 
 ## SOS2324-13
 
