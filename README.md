@@ -196,8 +196,9 @@ and the richest companies.
 - Repository: https://github.com/gti-sos/SOS2324-22
 - **URL**: https://sos2324-22.ew.r.appspot.com/
 -  **APIs**:
-    - TBD
-    - TBD
+    - http://sos2324-XX.appspot.com/api/v1/famous-people/docs (developed by Juan Ros Raposo)
+    - 
+    -
     - 
 
 
