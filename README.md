@@ -42,7 +42,6 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [socioeconomics-tracker-using-unconventional-data](https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data)
     
 ## SOS2324-12
-# SOS2324-12
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)
