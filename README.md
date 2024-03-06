@@ -125,7 +125,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **APIs**:
     - TBD
     - TBD
-    - TBD
+    - https://sos2324-17.appspot.com/samples/ARM
 
 ## SOS2324-18
 
