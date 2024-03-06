@@ -152,7 +152,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our project is based on analizing the relationship between EU Payments and development
 
 - **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
-
+- **URL**: https://sos2324-19.appspot.com/
+- **APIs**:
+    -
+    -
+    -
+    -
 
 ## SOS2324-20
 
