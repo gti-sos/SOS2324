@@ -66,8 +66,8 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: [sos2324-13.appspot.com](https://sos2324-13.appspot.com)
 -  **APIs**:
-    - RRG: [https://sos2324-13.ew.r.appspot.com/samples/RRG](https://sos2324-13.ew.r.appspot.com/samples/RRG)
-    - ALB: http://sos2324-XX.appspot.com/api/v1/mentalhealth-datasets/docs (developed by Antonio Lopez Barrios)
+    - RRG: [https://sos2324-13.appspot.com/api/v1/wris-datasets/docs](https://sos2324-13.appspot.com/api/v1/wris-datasets/docs) (developed by Ruben Romero Guisado)
+    - ALB: [https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
     - ALL: 
 
 ## SOS2324-14
