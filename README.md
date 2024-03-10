@@ -174,7 +174,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
-# SOS2324-21
+## SOS2324-21
 
 - **Team**
   - [Maria Luisa Rodriguez Cabrera](https://github.com/marrodcab12)
