@@ -140,9 +140,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-18](https://github.com/gti-sos/SOS2324-18)
 - **URL**: [http://sos2324-18.appspot.com](http://sos2324-18.appspot.com)
 -  **APIs**:
-    -[http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs](http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs)(developed by Carlos Beato Rioja)
-    -[http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs](http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs)(developed by Miguel Moreno Martín-Palomo)
-    -[http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs](http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs)(developed by José Joaquín Garrido Vargas)
+    - [http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs](http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs)(developed by Carlos Beato Rioja)
+    - [http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs](http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs)(developed by Miguel Moreno Martín-Palomo)
+    - [http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs](http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs)(developed by José Joaquín Garrido Vargas)
 
 ## SOS2324-19
 
