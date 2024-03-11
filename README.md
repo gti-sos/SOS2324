@@ -90,11 +90,11 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Sergio kenzo Cortes González](https://github.com/SergioKenz0)
 - **Project description**: Our sources of information are oriented towards analyzing performance at an educational level, considering the behavior of students, academic history, and sleep health.
 - **Repository**: [gti-sos/SOS2324-15](https://github.com/gti-sos/SOS2324-15)
-- **URL**: TBD
+- **URL**: (http://sos2324-15.appspot.com/)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - [https://sos2324-15.appspot.com/api/v1/students-performance-dataset/docs] (developed by Marta Fernández Carmona)
+    - [https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs] (developed by Óscar García González)
+    - [https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs] (developed by Sergio Kenzo Cortes González)
 
 ## SOS2324-16
 
