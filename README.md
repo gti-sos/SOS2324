@@ -116,6 +116,22 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs (developed by Francisco Sáez Pérez)
     - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/life-expectancy/docs] (developed by Alejandro Fernández Orozco)
     - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/phamaceutical-drugs-spending/docs] (developed by Rufino Moreno Pacheco)
+
+## SOS2324-21
+
+- **Team**
+  - [Maria Luisa Rodríguez Cabrera](https://github.com/marrodcab12)
+  - [Alejandro Morilla García](https://github.com/aaleejandro01)
+  - [Jesus Manuel Méndez Martínez](https://github.com/jesmenmar)
+- **Project description**: Nuestro trabajo consiste en estudiar como influye la producción de comida y el uso de fármacos en la esperanza de vida de la población en los diferentes paises del mundo
+- **Repository**: [gti-sos/SOS2324-21](https://github.com/gti-sos/SOS2324-21)
+- **URL**: [https://sos2324-21.ew.r.appspot.com](https://sos2324-21.ew.r.appspot.com)
+-  **APIs**:
+    - [https://sos2324-21.ew.r.appspot.com/api/v1/cause-of-deaths/docs] (developed by María Luisa Rodriguez Cabrera)
+    - [https://sos2324-21.ew.r.appspot.com/api/v1/chocolate-ratings/docs] (developed by Alejandro Morilla García)
+    - [https://sos2324-21.ew.r.appspot.com/api/v1/happiness-reports/docs] (developed by Jesús Manuel Méndez Martínez)
+
+  
 ## SOS2324-22
 
 - Team:
