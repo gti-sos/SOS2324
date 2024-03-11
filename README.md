@@ -85,6 +85,21 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs (developed by Óscar García González)
     - https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs (developed by Sergio Kenzo Cortes González)
 
+# SOS2324-16
+
+- **Team:**
+  - [Domingo Morales Calderón](https://github.com/Domingo-Morales-TI-Grupo4)
+  - [Pablo Suarez Sarmiento](https://github.com/Pablosuasar)
+  - [Pablo Ruiz Rivas](https://github.com/pablorivast)
+
+- **Project description**: Our sources of information are aimed at analyzing the statistics of professional players from various sports games, such as European football, volleyball, and rugby.
+- **Repository**: [gti-sos/SOS2324-16](https://github.com/gti-sos/SOS2324-16)
+- **URL**: [https://sos2324-16.appspot.com](https://sos2324-16.appspot.com)
+- **APIs**: 
+  - [https://sos2324-16.appspot.com/api/v1/stats-football/docs](https://sos2324-16.appspot.com/api/v1/stats-football/docs) (developed by Pablo Suárez Sarmiento)
+  - [https://sos2324-16.appspot.com/api/v1/stats-volleyball/docs](https://sos2324-16.appspot.com/api/v1/stats-volleyball/docs) (developed by Domingo Morales Calderon)
+  - [https://sos2324-16.appspot.com/api/v1/stats-rugby/docs](https://sos2324-16.appspot.com/api/v1/stats-rugby/docs) (developed by Pablo Ruiz Rivas)
+
 ## SOS2324-19
 
 - **Team**
