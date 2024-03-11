@@ -37,6 +37,19 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our information sources are aimed at analyzing the relationships that exist between annual EU payments from 2014 to the present, together with details on payments to structural and investment programs. In addition, unconventional data collected from news and social networks is integrated to analyze socioeconomic trends.
 - **Repository**: [gti-sos/SOS2324-11](https://github.com/gti-sos/SOS2324-11)
 
+# SOS2324-12
+- **Team**
+  - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
+  - [Borja Flores Avecilla](https://github.com/borfloave)
+  - [José Martínez Suárez](https://github.com/josmarsua)
+- **Project description**: Our information sources focus on analyzing essential areas such as global food and water security, encompassing topics like access to clean drinking water and food consumption patterns. Additionally, we delve into the variability of prices and unique features of Airbnb rentals across diverse cities.
+- **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
+- **URL**: [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
+-  **APIs**:
+    - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
+    - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices/docs). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
+    - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data/docs). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
+
 ## SOS2324-13
 
 - **Team**
