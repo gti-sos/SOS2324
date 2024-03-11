@@ -113,9 +113,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-20)
 - **URL**: TBD
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs (developed by Francisco Sáez Pérez)
+    - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/life-expectancy/docs] (developed by Alejandro Fernández Orozco)
+    - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/phamaceutical-drugs-spending/docs] (developed by Rufino Moreno Pacheco)
 ## SOS2324-22
 
 - Team:
