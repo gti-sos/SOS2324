@@ -123,14 +123,16 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Team**
   - [Alejandro Fernández Orozco](https://github.com/Alexfer02)
   - [Francisco Sáez Pérez](https://github.com/C1sko)
-  - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
-- **Project description**: Nuestro trabajo consiste en estudiar como influye la producción de comida y el uso de fármacos en la esperanza de vida de la población en los diferentes paises del mundo
+  - [Rufino Moreno Pacheco](https://github.com/rufmorpac)
+- **Project description**: Our work consists of studying how food production and the use of drugs influence the life expectancy of the population in different countries of the world.
 - **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-20)
-- **URL**: TBD
--  **APIs**:
-    - https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs (developed by Francisco Sáez Pérez)
-    - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/life-expectancy/docs] (developed by Alejandro Fernández Orozco)
-    - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/phamaceutical-drugs-spending/docs] (developed by Rufino Moreno Pacheco)
+- **URL**:[https://sos2324-20-415018.ew.r.appspot.com/](https://sos2324-20-415018.ew.r.appspot.com/)
+- **APIs**:
+  - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/life-expectancy/docs](https://sos2324-20-415018.ew.r.appspot.com/api/v1/life-expectancy/docs) (developed by Alejandro Fernández Orozco)
+
+  - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs](https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs) (developed by Francisco Sáez Pérez)
+
+  - [https://sos2324-20-415018.ew.r.appspot.com/api/v1/phamaceutical-drugs-spending/docs](https://sos2324-20-415018.ew.r.appspot.com/api/v1/phamaceutical-drugs-spending/docs) (developed by Rufino Moreno Pacheco)
 
 ## SOS2324-21
 
