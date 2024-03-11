@@ -35,24 +35,26 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Isabel María Trapero Romero](https://github.com/isabeltrapero)
   - [Álvaro Marcos Delgado](https://github.com/marketes03)
 - **Project description**: Our information sources are aimed at analyzing the relationships that exist between annual EU payments from 2014 to the present, together with details on payments to structural and investment programs. In addition, unconventional data collected from news and social networks is integrated to analyze socioeconomic trends.
-- **Repository**: [gti-sos/SOS2324-11](https://github.com/gti-sos/SOS2324-11)
+- **Repository**: [https://github.com/gti-sos/SOS2324-11](https://github.com/gti-sos/SOS2324-11)
+- **URL**: [https://sos2324-11.appspot.com](https://sos2324-11.appspot.com)
 - **APIs**:
-  - [structural-investment-data](https://sos2324-11.appspot.com/api/v1/structural-investment-data)
-  - [structural-payment-data](https://sos2324-11.appspot.com/api/v1/structural-payment-data)
-  - [socioeconomics-tracker-using-unconventional-data](https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data)
+  - [https://sos2324-11.appspot.com/api/v1/structural-investment-data/docs ](https://sos2324-11.appspot.com/api/v1/structural-investment-data/docs)
+  (developed by Sharay Portillo Jurado)
+  - [https://sos2324-11.appspot.com/api/v1/structural-payment-data/docs ](https://sos2324-11.appspot.com/api/v1/structural-payment-data/docs) (developed by Isabel María Trapero Romero)
+  - [https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data/docs ](https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data/docs) (developed by Álvaro Marcos Delgado)
     
 ## SOS2324-12
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)
   - [José Martínez Suárez](https://github.com/josmarsua)
-- **Project description**: Our information sources are aimed towards the analysis of necessity areas such as the food and the water through all the world, such as the consumption of drinkable water and the usage of food and about the variation in prices and different characteristics of rentals managed by Airbnb in different cities.
+- **Project description**: Our information sources focus on analyzing essential areas such as global food and water security, encompassing topics like access to clean drinking water and food consumption patterns. Additionally, we delve into the variability of prices and unique features of Airbnb rentals across diverse cities.
 - **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
 - **URL**: [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
 -  **APIs**:
-    - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings)
-    - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices)
-    - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data)
+    - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
+    - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices/docs). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
+    - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data/docs). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
 
 ## SOS2324-13
 
@@ -64,8 +66,8 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: [sos2324-13.appspot.com](https://sos2324-13.appspot.com)
 -  **APIs**:
-    - RRG: [https://sos2324-13.ew.r.appspot.com/samples/RRG](https://sos2324-13.ew.r.appspot.com/samples/RRG)
-    - ALB: [https://sos2324-13.ew.r.appspot.com/samples/ALB](https://sos2324-13.ew.r.appspot.com/samples/ALB)
+    - RRG: [https://sos2324-13.appspot.com/api/v1/wris-datasets/docs](https://sos2324-13.appspot.com/api/v1/wris-datasets/docs) (developed by Ruben Romero Guisado)
+    - ALB: [https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
     - ALL: 
 
 ## SOS2324-14
@@ -76,11 +78,11 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Nicolás Redondo Moreno](https://github.com/NicoRedondoo)
 - **Project description**: Our information sources are aimed at analyzing the reach of different ways of entertainment in the world.
 - **Repository**: [gti-sos/SOS2324-14](https://github.com/gti-sos/SOS2324-14)
-- **URL**: TBD
+- **URL**: [sos2324-14.appspot.com](https://sos2324-14.appspot.com)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - [http://sos2324-14.appspot.com/api/v1/movies-dataset/docs](https://sos2324-14.appspot.com/api/v1/movies-dataset/docs) (developed by Enrique García Olivares)
+    - [http://sos2324-14.appspot.com/api/v1/ufc-events-data/docs](https://sos2324-14.appspot.com/api/v1/ufc-events-data/docs) (developed by Nicolás Redondo Moreno)
+    - [http://sos2324-14.appspot.com/api/v1/youtube-trends/docs](https://sos2324-14.appspot.com/api/v1/youtube-trends/docs) (developed by Víctor Escalera García)
 
 ## SOS2324-15
 
@@ -96,19 +98,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - [https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs] (developed by Óscar García González)
     - [https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs] (developed by Sergio Kenzo Cortes González)
 
-## SOS2324-16
+# SOS2324-16
 
-- **Team**
+- **Team:**
    - [Domingo Morales Calderón](https://github.com/Domingo-Morales-TI-Grupo4)
-   - [Pablo Suárez Sarmiento](https://github.com/Pablosuasar)
+   - [Pablo Suarez Sarmiento](https://github.com/Pablosuasar)
    - [Pablo Ruiz Rivas](https://github.com/pablorivast)
+
 - **Project description**: Our sources of information are aimed at analyzing the statistics of professional players from various sports games, such as European football, volleyball, and rugby.
 - **Repository**: [gti-sos/SOS2324-16](https://github.com/gti-sos/SOS2324-16)
-- **URL**: TBD
--  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+- **URL**: [https://sos2324-16.appspot.com](https://sos2324-16.appspot.com)
+- **APIs**: 
+   - [https://sos2324-16.appspot.com/api/v1/stats-football/docs](https://sos2324-16.appspot.com/api/v1/stats-football/docs) (developed by Pablo Suárez Sarmiento)
+   - [https://sos2324-16.appspot.com/api/v1/stats-volleyball/docs](https://sos2324-16.appspot.com/api/v1/stats-volleyball/docs) (developed by Domingo Morales Calderon)
+   - [https://sos2324-16.appspot.com/api/v1/stats-rugby/docs](https://sos2324-16.appspot.com/api/v1/stats-rugby/docs) (developed by Pablo Ruiz Rivas)
 
 ## SOS2324-17
 
@@ -121,11 +124,11 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our work consists on comparing the GDB (Gross Domestic Product) of each country with the economical freedom of its citizens.
 
 - **Repository**: [gti-sos/SOS2324-17](https://github.com/gti-sos/SOS2324-17)
-- **URL**: [sos2324-17.appspot.com](https://sos2324-XX.appspot.com)
-- **APIs**:
-    - TBD
-    - TBD
-    - TBD
+- **URL**: [sos2324-17.appspot.com](https://sos2324-17.appspot.com)
+-  **APIs**:
+    - [trimestralpib_stats](https://sos2324-17.appspot.com/api/v1/trimestralpib_stats/docs). Developed by [Adrián León Arjona](https://github.com/adrile15).
+    - [manofthematch](https://sos2324-17.appspot.com/api/v1/manofthematch/docs). Developed by [Antonio Rumí Moreno](https://github.com/antrummor).
+    - [economicfreedom_stats](https://sos2324-17.appspot.com/api/v1/economicfreedom_stats/docs). Developed by [Ahmed Amine Fraj](https://github.com/ahmfra).
 
 ## SOS2324-18
 
@@ -135,24 +138,27 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
    - [José Joaquín Garrido Vargas](https://github.com/JJoaquinGV19)
 - **Project description**: Our sources of information are aimed at analyzing the statistics of regional politicies acceptance,european solidarity funds and foods prices inflation
 - **Repository**: [gti-sos/SOS2324-18](https://github.com/gti-sos/SOS2324-18)
-- **URL**: TBD
+- **URL**: [http://sos2324-18.appspot.com](http://sos2324-18.appspot.com)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - [http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs](http://sos2324-18.appspot.com/api/v1/regional-politicies-acceptance/docs)(developed by Carlos Beato Rioja)
+    - [http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs](http://sos2324-18.appspot.com/api/v1/eu-solidarity-funds/docs)(developed by Miguel Moreno Martín-Palomo)
+    - [http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs](http://sos2324-18.appspot.com/api/v1/foods-prices-inflation/docs)(developed by José Joaquín Garrido Vargas)
 
 ## SOS2324-19
 
 - **Team**
-  - [Raul Sequera Gomez](https://github.com/raulsequera)
   - [Pedro Heredia Torres](https://github.com/Pedro-Heredia)
   - [Alberto Fraile Infantes](https://github.com/Albertof03)
-  - [Jose Manuel Peña Ramírez](https://github.com/jpenrrami)
+  - [Raul Sequera Gomez](https://github.com/raulsequera)
+  - [Jose Manuel Peña Ramirez](https://github.com/jpenrrami)
 
-- **Project description**: Our project is based on analizing the relationship between EU Payments and development
-
+- **Project description**: Our sources of information are aimed at analyzing the relationship that exists between payments made in the US and what has been invested from those payments in the cohesion policy programs and in the Covid 19 alert period.
 - **Repository**: [gti-sos/SOS2324-19](https://github.com/gti-sos/SOS2324-19)
-
+- **URL**: [https://sos2324-19.appspot.com/] (https://sos2324-19.appspot.com/)
+-  **APIs**:
+    - [https://sos2324-19.appspot.com/api/v1/policy-program-stats/docs](https://sos2324-19.appspot.com/api/v1/policy-program-stats/docs) (developed by Alberto Fraile Infantes)
+    - [https://sos2324-19.appspot.com/api/v1/esif-payments/docs](https://sos2324-19.appspot.com/api/v1/esif-payments/docs) (developed by Jose Manuel Peña Ramírez)
+    - [https://sos2324-19.appspot.com/api/v1/eu-payment-info/docs](https://documenter.getpostman.com/view/32952835/2sA2xfXCsh) (developed by Pedro Heredia Torres)
 
 ## SOS2324-20
 
@@ -162,13 +168,13 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Rufino Moreno Pachecho](https://github.com/rufmorpac)
 - **Project description**: Our work consists of studying how food production and the use of drugs influence the life expectancy of the population in different countries of the world.
 - **Repository**: [gti-sos/SOS2324-20](https://github.com/gti-sos/SOS2324-20)
-- **URL**: TBD
+- **URL**: https://sos2324-20-415018.ew.r.appspot.com/
 -  **APIs**:
-    - TBD
+    - https://sos2324-20-415018.ew.r.appspot.com/api/v1/food-production/docs (developed by Francisco Sáez Pérez)
     - TBD
     - TBD
 
-# SOS2324-21
+## SOS2324-21
 
 - **Team**
   - [Maria Luisa Rodriguez Cabrera](https://github.com/marrodcab12)
@@ -177,10 +183,11 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 
 - **Project description**: We are going to explore the relation between death causes in a global level, chocolate consumption per capita and the global happiness index. Our work will focus on analyzing how these three aspects are interconnected through data from different global data sets.
 - **Repository**: [gti-sos/SOS2324-21](https://github.com/gti-sos/SOS2324-21)
-- **URL**: TBD
+- **URL**: https://sos2324-21.ew.r.appspot.com
 -  **APIs**:
-    - TBD
-    - TBD
+    - https://sos2324-21.ew.r.appspot.com/api/v1/cause-of-deaths/docs (developed by Maria Luisa Rodriguez Cabrera)
+    - https://sos2324-21.ew.r.appspot.com/api/v1/happiness-reports/docs (developed by Jesús Manuel Méndez Martínez)
+    - https://sos2324-21.ew.r.appspot.com/api/v1/happiness-reports/docs/utils-demo (developed by Jesús Manuel Méndez Martínez)
 
 ## SOS2324-22
 
@@ -194,7 +201,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
-
+- **URL**: https://sos2324-22.ew.r.appspot.com/
+-  **APIs**:
+    - http://sos2324-XX.appspot.com/api/v1/famous-people/docs (developed by Juan Ros Raposo)
+    - http://sos2324-XX.appspot.com/api/v1/forbes-billionaires/docs (developed by Daniel Taillefer Nieto)
+    - http://sos2324-XX.appspot.com/api/v1/forbes-billionaires-list/docs (developed by Rubén González Amador)
+    - 
 
 
 
