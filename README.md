@@ -71,6 +71,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+  ## SOS2324-15
+
+- **Team**
+  - [Óscar García González](https://github.com/oscgargon2)
+  - [Marta Fernandez Carmona](https://github.com/martaafdez07)
+  - [Sergio Kenzo Cortés González](https://github.com/SergioKenz0)
+- **Project description**: 
+- **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-15)
+- **URL**: (https://sos2324-15.ew.r.appspot.com/)
+-  **APIs**:
+    - https://sos2324-15.appspot.com/api/v1/students-performance-dataset/docs (developed by Marta Fernández Carmona)
+    - https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs (developed by Óscar García González)
+    - https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs (developed by Sergio Kenzo Cortes González)
+
 ## SOS2324-19
 
 - **Team**
