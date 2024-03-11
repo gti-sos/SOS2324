@@ -39,10 +39,10 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: TBD
 -  **APIs**:
-    - <li>API Tomás: <a href="https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs"> API-TLR</a> (developed by Tomás Lozano)</li>
-    - TBD
-    - TBD
-
+    <li>API Álvaro: <a href="https://sos2324-10.appspot.com/api/v1/tourisms-per-age">API-ASC</a></li>
+            <li>API Tomás: <a href="https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs"> API-TLR</a> (developed by Tomás Lozano)</li>
+            <li>API Miguel: <a href="http://sos2324-10.appspot.com/api/v1/gdp-growth-rates/docs"> API-MRF </a> (developed by Miguel Robledo Fernández)</li>
+            <li>API Antonio: <a href="http://sos2324-10.appspot.com/api/v1/cars-by-motor"> API-ASB</a></li>
 ## SOS2324-20
 
 - **Team**
