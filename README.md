@@ -19,6 +19,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
 
 - **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
+
+- API:
+- ASC: [API-ÁLVARO](http://sos2324-10.appspot.com/api/v1/tourisms-per-age/docs)
+    - ASB: [API-ANTONIO](http://sos2324-10.appspot.com/api/v1/cars-by-motor/docs)
+    - MRF: [API-MIGUEL](http://sos2324-10.appspot.com/api/v1/gdp-growth-rates/docs)
+    - TLR: [API-TOMAS](https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs)
 --
 ## SOS2324-11
 
@@ -39,10 +45,10 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: TBD
 -  **APIs**:
-    <li>API Álvaro: <a href="https://sos2324-10.appspot.com/api/v1/tourisms-per-age">API-ASC</a></li>
-            <li>API Tomás: <a href="https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs"> API-TLR</a> (developed by Tomás Lozano)</li>
-            <li>API Miguel: <a href="http://sos2324-10.appspot.com/api/v1/gdp-growth-rates/docs"> API-MRF </a> (developed by Miguel Robledo Fernández)</li>
-            <li>API Antonio: <a href="http://sos2324-10.appspot.com/api/v1/cars-by-motor"> API-ASB</a></li>
+    - TBD
+    - TBD
+    - TBD
+
 ## SOS2324-20
 
 - **Team**
