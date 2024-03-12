@@ -71,6 +71,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+## SOS2324-14
+
+- **Team**
+  - [Víctor Escalera García](https://github.com/victorsclr)
+  - [Enrique García Olivares](https://github.com/enrgaroli)
+  - [Nicolás Redondo Moreno](https://github.com/NicoRedondoo)
+- **Project description**: Our information sources are aimed at analyzing the reach of different ways of entertainment in the world.
+- **Repository**: [gti-sos/SOS2324-14](https://github.com/gti-sos/SOS2324-14)
+- **URL**: [sos2324-14.appspot.com](https://sos2324-14.appspot.com)
+-  **APIs**:
+    - [http://sos2324-14.appspot.com/api/v1/movies-dataset/docs](https://sos2324-14.appspot.com/api/v1/movies-dataset/docs) (developed by Enrique García Olivares)
+    - [http://sos2324-14.appspot.com/api/v1/ufc-events-data/docs](https://sos2324-14.appspot.com/api/v1/ufc-events-data/docs) (developed by Nicolás Redondo Moreno)
+    - [http://sos2324-14.appspot.com/api/v1/youtube-trends/docs](https://sos2324-14.appspot.com/api/v1/youtube-trends/docs) (developed by Víctor Escalera García)
+
   ## SOS2324-15
 
 - **Team**
