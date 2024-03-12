@@ -21,7 +21,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 
 - **Repository**: [gti-sos/SOS2324-10](https://github.com/gti-sos/SOS2324-10)
 
--**URL**: [sos2324.10](https://sos2324-10.appspot.com)
+-**URL**: [SOS2324-10](https://sos2324-10.appspot.com)
 
 -**API**:
 <li>API Álvaro: <a href="https://sos2324-10.appspot.com/api/v1/tourisms-per-age/docs">API-ASC</a> (developed by Álvaro Súarez Carbonell)</li>
