@@ -15,7 +15,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Álvaro Suárez Carbonell](https://github.com/suarovski)
   - [Tomás Lozano Romero](https://github.com/TmsLzn)
   - [Antonio Suero Baeza](https://github.com/antsuebae)
-  - [Miguel Robledo Fernandez] (https://github.com/migrobfer)
+  - [Miguel Robledo Fernandez] (https://github.com/g3nesis33)
 
 - **Project description**: Our project is based on analyzing how the GDP affects vehicles in Europe
 
@@ -24,10 +24,10 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 -**URL**: [sos2324.10](https://sos2324-10.appspot.com)
 
 -**API**:
-<li>API Álvaro: <a href="https://sos2324-10.appspot.com/api/v1/tourisms-per-age/docs">API-ASC</a>(developed by Álvaro Súarez Carbonell)</li>
-            <li>API Tomás: <a href="https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs"> API-TLR</a> (developed by Tomás Lozano Romero)</li>
-            <li>API Miguel: <a href="http://sos2324-10.appspot.com/api/v1/gdp-growth-rates/docs"> API-MRF </a> (developed by Miguel Robledo Fernández)</li>
-            <li>API Antonio: <a href="http://sos2324-10.appspot.com/api/v1/cars-by-motor/docs"> API-ASB</a>(developed by Antoni Suero Baeza)</li>
+<li>API Álvaro: <a href="https://sos2324-10.appspot.com/api/v1/tourisms-per-age/docs">API-ASC</a> (developed by Álvaro Súarez Carbonell)</li>
+<li>API Tomás: <a href="https://sos2324-10.appspot.com/api/v1/vehicles-stock/docs"> API-TLR</a> (developed by Tomás Lozano Romero)</li>
+<li>API Miguel: <a href="http://sos2324-10.appspot.com/api/v1/gdp-growth-rates/docs"> API-MRF </a> (developed by Miguel Robledo Fernández)</li>
+<li>API Antonio: <a href="http://sos2324-10.appspot.com/api/v1/cars-by-motor/docs"> API-ASB</a> (developed by Antonio Suero Baeza)</li>
             
 ## SOS2324-11
 
