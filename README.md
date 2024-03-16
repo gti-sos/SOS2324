@@ -63,13 +63,13 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Aaron López Leal](https://github.com/aaronlopezleal)
   - [Rubén Romero Guisado](https://github.com/rubromgui)
   - [Antonio López Barrios](https://github.com/antlopbar)
-- **Project description**: 
+- **Project description**: Our information sources are aimed at analyzing if there is a relationship between the risk of natural disasters by country, salaries and the most common mental problems.
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
-- **URL**: TBD
+- **URL**: [https://sos2324-13.appspot.com](https://sos2324-13.appspot.com)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - RRG: https://sos2324-13.appspot.com/api/v1/wris-datasets/docs (developed by Ruben Romero Guisado)
+    - ALB: https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs (developed by Antonio Lopez Barrios)
+    - ALL: https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs (developed by Aaron Lopez Leal)
 
 ## SOS2324-14
 
