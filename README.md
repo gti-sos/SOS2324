@@ -95,9 +95,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-15)
 - **URL**: (https://sos2324-15.ew.r.appspot.com/)
 -  **APIs**:
-    - https://sos2324-15.appspot.com/api/v1/students-performance-dataset/docs (developed by Marta Fernández Carmona)
-    - https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs (developed by Óscar García González)
-    - https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs (developed by Sergio Kenzo Cortes González)
+  - [https://sos2324-15.appspot.com/api/v1/students-performance-dataset/docs] (developed by Marta Fernández Carmona)
+  - [https://sos2324-15.appspot.com/api/v2/students-performance-dataset/docs] (developed by Marta Fernández Carmona)
+  - [https://sos2324-15.appspot.com/api/v1/students-performance-in-exams/docs] (developed by Óscar García González)
+  - [https://sos2324-15.appspot.com/api/v2/students-performance-in-exams/docs] (developed by Óscar García González)
+  - [https://sos2324-15.appspot.com/api/v1/students-sleep-health/docs] v1 (developed by Sergio Kenzo Cortes González) 
+  - [https://sos2324-15.appspot.com/api/v2/students-sleep-health/docs] v2 (developed by Sergio Kenzo Cortes González)
 
 # SOS2324-16
 
@@ -170,10 +173,18 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - Team:
   - [Daniel Taillefer Nieto](https://github.com/dantainie)
   - [Juan Ros Raposo](https://github.com/juarosrap)
-  - [Rubén González Amador](https://github.com/rubgonama) 
+  - [Rubén González Amador](https://github.com/rubgonama)
+  - [Benjamin Velasco Bendezu](https://github.com/benvelben)
 
-- Project description: Analysing the most famous people in the world
+- Project description: Analyzing the most famous people in the world
 and the richest companies.
 
 - Repository: https://github.com/gti-sos/SOS2324-22
+- **URL**: https://sos2324-22.ew.r.appspot.com/
+-  **APIs**:
+    - http://sos2324-22.appspot.com/api/v1/famous-people/docs (developed by Juan Ros Raposo)
+    - http://sos2324-22.appspot.com/api/v1/forbes-billionaires/docs (developed by Daniel Taillefer Nieto)
+    - http://sos2324-22.appspot.com/api/v1/forbes-billionaires-list/docs (developed by Rubén González Amador)
+    - http://sos2324-22.appspot.com/api/v1/top-richest/docs (developed by Benjamín Velasco Bendezu)
+
 
