@@ -44,7 +44,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [https://sos2324-11.appspot.com/api/v1/structural-payment-data/docs ](https://sos2324-11.appspot.com/api/v1/structural-payment-data/docs) (developed by Isabel María Trapero Romero)
   - [https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data/docs ](https://sos2324-11.appspot.com/api/v1/socioeconomics-traker-using-unconventional-data/docs) (developed by Álvaro Marcos Delgado)
 
-# SOS2324-12
+## SOS2324-12
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)
@@ -53,15 +53,17 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
 - **URL**: [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
 -  **APIs**:
-    - [airbnb-listings [v1]](https://sos2324-12.appspot.com/api/v1/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
-    - [airbnb-listings [v2]](https://sos2324-12.appspot.com/api/v2/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
-    - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices/docs). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
-    - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data/docs). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
+    - **v1**:
+        - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
+        - [global-food-prices](https://sos2324-12.appspot.com/api/v1/global-food-prices/docs). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
+        - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v1/world-consumption-of-drinking-water-data/docs). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
+    - **v2**:
+        - [airbnb-listings](https://sos2324-12.appspot.com/api/v2/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
+        - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/api/v2/world-consumption-of-drinking-water-data/docs). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
 -  **FrontEnds**:
     - [airbnb-listings](https://sos2324-12.appspot.com/airbnb-listings/). Developed by [José Martínez Suárez](https://github.com/josmarsua).
     - [global-food-prices](https://sos2324-12.appspot.com/global-food-prices/). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
     - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/world-consumption-of-drinking-water-data/). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
-      
 ## SOS2324-13
 
 - **Team**
