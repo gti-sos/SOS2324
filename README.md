@@ -99,9 +99,12 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: [https://sos2324-13.appspot.com](https://sos2324-13.appspot.com)
 -  **APIs**:
-    - RRG: https://sos2324-13.appspot.com/api/v1/wris-datasets/docs (developed by Ruben Romero Guisado)
-    - ALB: https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs (developed by Antonio Lopez Barrios)
-    - ALL: https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs (developed by Aaron Lopez Leal)
+    - [https://sos2324-13.appspot.com/api/v1/wris-datasets/docs](https://sos2324-13.appspot.com/api/v1/wris-datasets/docs) (developed by Ruben Romero Guisado)
+    - [https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
+    - [https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs) (developed by Aaron Lopez Leal)
+    - [https://sos2324-13.appspot.com/api/v2/wris-datasets/docs](https://sos2324-13.appspot.com/api/v2/wris-datasets/docs) (developed by Ruben Romero Guisado)
+    - [https://sos2324-13.appspot.com/api/v2/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v2/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
+    - [https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs) (developed by Aaron Lopez Leal)
 
 ## SOS2324-14
 
