@@ -70,13 +70,23 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [socioeconomics-traker-using-unconventional-data ](https://sos2324-11.appspot.com/socioeconomics-tracker-using-unconventional-data) (developed by Álvaro Marcos Delgado)
 
 ## SOS2324-12
+[![Known Vulnerabilities](https://snyk.io/test/github/gti-sos/SOS2324-12/badge.svg)](https://snyk.io/test/github/gti-sos/SOS2324-12)
+[![codecov](https://codecov.io/gh/gti-sos/SOS2324-12/graph/badge.svg?token=kChmAsmdM1)](https://codecov.io/gh/gti-sos/SOS2324-12)
+
 - **Team**
   - [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue)
   - [Borja Flores Avecilla](https://github.com/borfloave)
   - [José Martínez Suárez](https://github.com/josmarsua)
 - **Project description**: Our information sources focus on analyzing essential areas such as global food and water security, encompassing topics like access to clean drinking water and food consumption patterns.. Additionally, we delve into the variability of prices and unique features of Airbnb rentals across diverse cities.
 - **Repository**: [gti-sos/SOS2324-12](https://github.com/gti-sos/SOS2324-12)
-- **URL**: [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
+- **DockerHub**: Run the following commands:
+```
+docker pull josmarsua/sos2324-12:0.0.2
+docker run -p 10000:10000 -d josmarsua/sos2324-12:0.0.2
+```
+- **URL**: 
+    - [sos2324-12.appspot.com](https://sos2324-12.appspot.com)
+    - [Desplegado en OnRender](https://sos2324-12.onrender.com)
 -  **APIs**:
     - **v1**:
         - [airbnb-listings](https://sos2324-12.appspot.com/api/v1/airbnb-listings/docs). Developed by [José Martínez Suárez](https://github.com/josmarsua).
@@ -89,6 +99,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - [airbnb-listings](https://sos2324-12.appspot.com/airbnb-listings/). Developed by [José Martínez Suárez](https://github.com/josmarsua).
     - [global-food-prices](https://sos2324-12.appspot.com/global-food-prices/). Developed by [Borja Flores Avecilla](https://github.com/borfloave).
     - [world-consumption-of-drinking-water-data](https://sos2324-12.appspot.com/world-consumption-of-drinking-water-data/). Developed by [José Joaquín Mena-Bernal Rueda](https://github.com/josmenrue).
+
 ## SOS2324-13
 
 - **Team**
