@@ -120,7 +120,7 @@ docker run -p 10000:10000 -d josmarsua/sos2324-12:0.0.2
     - [https://sos2324-13.appspot.com/api/v2/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs) (developed by Aaron Lopez Leal)
 -  **Front-Ends**:
     - api-wris-datasets: [https://sos2324-13.appspot.com/wris-datasets](https://sos2324-13.appspot.com/wris-datasets) (developed by Rubén Romero Guisado)
-    - api-mentalhealth-datasets: [https://sos2324-13.appspot.com/mentalhealth-datasets](https://sos2324-13.appspot.com/mentalhealth-datasets) (developed by Rubén Romero Guisado)
+    - api-mentalhealth-datasets: [https://sos2324-13.appspot.com/mentalhealth-datasets](https://sos2324-13.appspot.com/mentalhealth-datasets) (developed by Antonio Lopez Barrios)
     - api-salaries-datasets: [https://sos2324-13.appspot.com/salaries-datasets](https://sos2324-13.appspot.com/salaries-datasets) (developed by Aaron López Leal)
 - **About**: [https://sos2324-13.appspot.com/about](https://sos2324-13.appspot.com/about)
 
