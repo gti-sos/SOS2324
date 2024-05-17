@@ -110,13 +110,19 @@ docker run -p 10000:10000 -d josmarsua/sos2324-12:0.0.2
 - **Project description**: Our information sources are aimed at analyzing if there is a relationship between the risk of natural disasters by country, salaries and the most common mental problems.
 - **Repository**: [gti-sos/SOS2324-13](https://github.com/gti-sos/SOS2324-13)
 - **URL**: [https://sos2324-13.appspot.com](https://sos2324-13.appspot.com)
+- **To run the following container do**: docker pull antonioolb15/sos2324-13;docker run -p 10000:10000 -d antonioolb15/sos2324-13:0.0.3
 -  **APIs**:
     - [https://sos2324-13.appspot.com/api/v1/wris-datasets/docs](https://sos2324-13.appspot.com/api/v1/wris-datasets/docs) (developed by Ruben Romero Guisado)
     - [https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v1/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
-    - [https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs) (developed by Aaron Lopez Leal)
+    - [https://sos2324-13.appspot.com/api/v1/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v1/salaries-datasets/docs) (developed by Aaron Lopez Leal)
     - [https://sos2324-13.appspot.com/api/v2/wris-datasets/docs](https://sos2324-13.appspot.com/api/v2/wris-datasets/docs) (developed by Ruben Romero Guisado)
     - [https://sos2324-13.appspot.com/api/v2/mentalhealth-datasets/docs](https://sos2324-13.appspot.com/api/v2/mentalhealth-datasets/docs) (developed by Antonio Lopez Barrios)
-    - [https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs) (developed by Aaron Lopez Leal)
+    - [https://sos2324-13.appspot.com/api/v2/salaries-datasets/docs](https://sos2324-13.appspot.com//api/v2/salaries-datasets/docs) (developed by Aaron Lopez Leal)
+-  **Front-Ends**:
+    - api-wris-datasets: [https://sos2324-13.appspot.com/wris-datasets](https://sos2324-13.appspot.com/wris-datasets) (developed by Rubén Romero Guisado)
+    - api-mentalhealth-datasets: [https://sos2324-13.appspot.com/mentalhealth-datasets](https://sos2324-13.appspot.com/mentalhealth-datasets) (developed by Rubén Romero Guisado)
+    - api-salaries-datasets: [https://sos2324-13.appspot.com/salaries-datasets](https://sos2324-13.appspot.com/salaries-datasets) (developed by Aaron López Leal)
+- **About**: [https://sos2324-13.appspot.com/about](https://sos2324-13.appspot.com/about)
 
 ## SOS2324-14
 
